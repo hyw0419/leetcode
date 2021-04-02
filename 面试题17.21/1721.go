@@ -27,5 +27,6 @@ func trap(height []int) int {
 			}
 		}
 	}
+
 	return sum
 }
